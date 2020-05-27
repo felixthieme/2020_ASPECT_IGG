@@ -1,3 +1,5 @@
+(Cloned from ASPECT by Felix Thieme (Idaho Geodynamics Group) on 5/27/2020)
+
 ASPECT - Advanced Solver for Problems in Earth's ConvecTion
 ===========================================================
 [![License GPL2:](https://img.shields.io/cran/l/devtools.svg)](https://github.com/geodynamics/aspect/blob/master/LICENSE)
